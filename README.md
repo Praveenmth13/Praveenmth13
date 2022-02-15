@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Amazon 😊
 - 📫 Praveenmth13@gmail.com 👍
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenmth13&theme=radical)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenmth13&theme=gruvbox)
