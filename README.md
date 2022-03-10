@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/praveen-kumar-a339431b7/" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" alt="praveen kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/praveen_12011635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@praveen_12011635" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/praveen_12011635" target="blank"><img align="center" src="https://avatar-prod-us-east-2.webexcontent.com/Avtr~V1~1eb65fdf-9643-417f-9974-ad72cae0e10f/V1~81d84586e97ed40071f95739a5710240c28dc271a02dcb4415e9afa46ecba0b1~2ffd87b6784e4c0b860346e4c92feb72?quarantineState=evaluating" alt="@praveen_12011635" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
