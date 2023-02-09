@@ -22,3 +22,7 @@
 <details open>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenmth13&hide_border=true" />
 </details>
+
+
+
+![snake gif](https://github.com/Praveenmth13/Praveenmth13/blob/output/github-contribution-grid-snake.gif)
